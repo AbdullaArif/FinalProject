@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8kEBnWQZtOfwtp4ltDOn+lWaWNFee948hEO2GgbJ+9I+0SFZ/CavK4fRbiFOXFeUALjN7XIxpg1NqqMdVnUj0g==",
+  "dgSpecHash": "ZHRJSfGhhjaCIoET2o2dLPhphDIrlqDGl/hmjXnttMHXbKiiAbYAqyjYbF7x9xDU3L1GQ3zn2aUV0gyBPIXukQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\DataAcces.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\DataAccess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAcces.Abstract
+namespace DataAccess.Abstract
 {
     public interface IProductDal
     {
@@ -13,5 +13,6 @@ namespace DataAcces.Abstract
         void Add(Product product);
         void Update(Product product);
         void Delete(Product product);
+        List<Product> GetAllByCategory(int categoryId);
     }
 }

@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\DataAcces.csproj",
-      "projectName": "DataAcces",
-      "projectPath": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\DataAcces.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\DataAccess.csproj",
+      "projectName": "DataAccess",
+      "projectPath": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\FinalProject\\DataAcces\\obj\\",
       "projectStyle": "PackageReference",
